@@ -1,0 +1,26 @@
+.container {
+	padding: 40px 20px;
+	color: red;
+}
+
+.first {
+	background-color: red;
+	color: white;
+	padding: 20px 20px;
+	margin:auto;
+	height: 100%;
+}
+section {
+	height: 350px;
+}
+body {
+	margin: 0px !Important;
+}
+h1 {
+	font-family: 'Righteous', cursive;
+	text-align: center;
+	text-shadow: 2px 2px #000;
+}
+h3 {
+	font-family: 'Laila', serif;
+}
